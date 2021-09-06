@@ -3,16 +3,14 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        String day = "Sunday";
-        String month = "September 5";
-        int year = 2021;
-            System.out.print("American Format:");
-            System.out.print(day);
-            System.out.print(", ");
-            System.out.print(month);
-            System.out.print(", ");
-            System.out.print(year);
-            System.out.println("fffff");
+        // write your code here
+
+        for (int i = 2; i <= 20; i = i + 2) {
+            System.out.println(i);
+//            her laves 2 tabellen //
+
+            }
+        }
     }
-}
+
+
