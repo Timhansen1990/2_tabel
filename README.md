@@ -8,6 +8,6 @@ Jeg har lavet 2 tabellen og 4 tabellen
             for (int j = 4; j <=40; j = j + 4)
                 System.out.println(j);
      //her laves 4 tabellen//
-     ```
+     
                
 
