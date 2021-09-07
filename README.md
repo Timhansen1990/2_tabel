@@ -9,5 +9,7 @@ Jeg har lavet 2 tabellen og 4 tabellen
                 System.out.println(j);
      //her laves 4 tabellen//
      
+     
+     
                
 
